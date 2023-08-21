@@ -1,7 +1,8 @@
 ---
+title: Home
 ---
 
-# HershbergerLab's Website
+# Vegetable Breeding & Genetics at Clemson University
 
 An engaging 1-3 sentence description of your lab.
 
@@ -11,12 +12,12 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We strive to share our research with the broader scientific community, prioritizing transparency, rigor, and reproducibility.
 
 {%
   include button.html
-  link="research"
-  text="See our publications"
+  link="publications"
+  text="See what we've published"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -26,20 +27,20 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
+  image="images/research/sweetcornplot.jpg"
+  link="publications"
+  title="Our publications"
   text=text
 %}
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are working to characterize, understand, and improve nutritional quality and flavor in vegetables. Our current focus crops are butter beans and sweet corn.
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="Vegetable research and breeding"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -49,9 +50,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
+  image="images/home/seedling.JPG"
+  link="research"
+  title="Our research"
   flip=true
   style="bare"
   text=text
@@ -59,8 +60,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We are hiring a postdoctoral scholar to start in fall 2023. Find descriptions and applications links on our [Team page](team).
 {%
   include button.html
   link="team"
@@ -74,8 +74,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/planting_lunatus.jpg"
   link="team"
-  title="Our Team"
+  title="Join us!"
   text=text
 %}

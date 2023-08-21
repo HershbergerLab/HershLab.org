@@ -14,6 +14,10 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+masters:
+  icon: fa-solid fa-graduation-cap
+  text: Masters Student
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
@@ -22,9 +26,17 @@ programmer:
   icon: fa-solid fa-code
   description: Programmer
 
-mascot:
+technician:
+  icon: fas fa-screwdriver-wrench
+  text: Research Specialist
+
+mascot-d:
   icon: fa-solid fa-dog
-  description: Mascot
+  text: Mascot
+
+mascot-c:
+  icon: fa-solid fa-cat
+  text: Mascot
 
 # general
 
