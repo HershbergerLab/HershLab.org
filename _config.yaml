@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: Hershberger Lab
-subtitle: 
+logo-text: false
 description: Vegetable breeding and genetics at Clemson University's Pee Dee Research and Education Center
 header: images/background.jpg
 footer: images/background.jpg
@@ -12,7 +12,6 @@ links:
   google-scholar: S1gj2lMAAAAJ
   github: HershbergerLab
   twitter: hershlab
-  youtube: 
   instagram: hersh.lab
 
 ### jekyll settings
