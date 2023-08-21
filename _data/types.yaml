@@ -27,7 +27,7 @@ programmer:
   description: Programmer
 
 technician:
-  icon: fas fa-screwdriver-wrench
+  icon: fa-solid fa-screwdriver-wrench
   text: Research Specialist
 
 mascot-d:

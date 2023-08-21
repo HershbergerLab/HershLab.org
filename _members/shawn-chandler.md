@@ -1,6 +1,5 @@
 ---
 name: Shawn Chandler
-description:
 role: technician
 aliases:
   - S Chandler

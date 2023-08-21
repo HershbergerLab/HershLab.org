@@ -1,47 +1,31 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: waves
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/research/waveslogo.png
+  link: https://gorelab.github.io/waves/
+  description: Originally designed application in the context of resource-limited plant research and breeding programs, 'waves' provides an open-source solution to spectral data processing and model development by bringing useful packages together into a streamlined pipeline.
+  repo: GoreLab/waves/
   tags:
-    - resource
+    - R
+    - spectroscopy
 
-- title: Cool Package
-  subtitle: a subtitle
+- title: Sweet corn transcriptomics
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/research/sweetcornplot.png
+  link: https://doi.org/10.1002/tpg2.20197
+  description: We used fresh sweet corn kernel 3'RNAseq for transcriptome-wide association and prediction of carotenoid and tocochromanol content.
+  repo: GoreLab/SweetCornRNA/
   tags:
-    - resource
+    - transcriptomics
+    - sweet corn
+    - nutritional quality
 
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+- title: Cassava NIRS
+  group: featured
+  image: images/research/nacrri.jpg
+  link: https://gorelab.github.io/CassavaNIRS/
+  journal: https://doi.org/10.1002/ppj2.20040
+  description: Working closely with collaborators at IITA, we successfully predicted root dry matter content with a handheld near-infrared spectrometer.
+  repo: GoreLab/CassavaNIRS/
   tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
+    - spectroscopy
+    - cassava

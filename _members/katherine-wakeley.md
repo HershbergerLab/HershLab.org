@@ -1,7 +1,6 @@
 ---
 name: Katherine Wakeley
 image: images/team/Wakeley.jpg
-description:
 role: phd
 aliases:
   - K Wakeley

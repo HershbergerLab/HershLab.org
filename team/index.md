@@ -60,10 +60,9 @@ Please do this well in advance of the proposal deadline so that we have adequate
 
 {% include section.html %}
 
-{% capture content %}
-
-{% include figure.html image="images/team/planting_2023.JPEG" %}
-
-{% endcapture %}
-
-{% include grid.html style="square" content=content %}
+{% 
+  include figure.html
+  image = "images/team/planting_2023.JPEG"
+  caption = "Planting butter beans"
+  width = "100%"
+%}

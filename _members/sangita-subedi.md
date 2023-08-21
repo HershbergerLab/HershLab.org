@@ -1,6 +1,5 @@
 ---
 name: Sangita Subedi
-description:
 role: phd
 aliases:
   - S Subedi
