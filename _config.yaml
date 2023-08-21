@@ -1,18 +1,19 @@
 # site properties and page defaults
 title: HershbergerLab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: Vegetable breeding and genetics at Clemson University's Pee Dee Research and Education Center
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@HershbergerLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: jmhersh@clemson.edu
+  orcid: 0000-0002-3147-6867
+  google-scholar: S1gj2lMAAAAJ
   github: HershbergerLab
-  twitter: HershbergerLab
-  youtube: HershbergerLab
+  twitter: hershlab
+  youtube: 
+  instagram: hersh.lab
 
 ### jekyll settings
 
