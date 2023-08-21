@@ -1,1 +1,217 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/HershLab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="/HershLab.org/" rel="alternate" type="text/html" /><updated>2023-08-21T20:22:19+00:00</updated><id>/HershLab.org/feed.xml</id><title type="html">Hershberger Lab</title><subtitle>Vegetable breeding and genetics at Clemson University&apos;s Pee Dee Research and Education Center</subtitle><entry><title type="html">Example post 3</title><link href="/HershLab.org/2023/02/23/example-post-3.html" rel="alternate" type="text/html" title="Example post 3" /><published>2023-02-23T00:00:00+00:00</published><updated>2023-08-21T20:20:58+00:00</updated><id>/HershLab.org/2023/02/23/example-post-3</id><content type="html" xml:base="/HershLab.org/2023/02/23/example-post-3.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>john-doe</name></author><category term="biology," /><category term="medicine" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 2</title><link href="/HershLab.org/2021/09/30/example-post-2.html" rel="alternate" type="text/html" title="Example post 2" /><published>2021-09-30T00:00:00+00:00</published><updated>2023-08-21T20:20:58+00:00</updated><id>/HershLab.org/2021/09/30/example-post-2</id><content type="html" xml:base="/HershLab.org/2021/09/30/example-post-2.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>jane-smith</name></author><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry><entry><title type="html">Example post 1</title><link href="/HershLab.org/2019/01/07/example-post-1.html" rel="alternate" type="text/html" title="Example post 1" /><published>2019-01-07T00:00:00+00:00</published><updated>2023-08-21T20:20:58+00:00</updated><id>/HershLab.org/2019/01/07/example-post-1</id><content type="html" xml:base="/HershLab.org/2019/01/07/example-post-1.html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>]]></content><author><name>sarah-johnson</name></author><category term="biology" /><category term="medicine" /><category term="big data" /><summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.]]></summary></entry></feed>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/HershLab.org/feed.xml" rel="self" type="application/atom+xml" /><link href="/HershLab.org/" rel="alternate" type="text/html" /><updated>2023-08-21T20:30:31+00:00</updated><id>/HershLab.org/feed.xml</id><title type="html">Hershberger Lab</title><subtitle>Vegetable breeding and genetics at Clemson University&apos;s Pee Dee Research and Education Center</subtitle><entry><title type="html">New germplasm</title><link href="/HershLab.org/2022/12/20/new-germplasm.html" rel="alternate" type="text/html" title="New germplasm" /><published>2022-12-20T00:00:00+00:00</published><updated>2023-08-21T20:29:41+00:00</updated><id>/HershLab.org/2022/12/20/new-germplasm</id><content type="html" xml:base="/HershLab.org/2022/12/20/new-germplasm.html"><![CDATA[<h1 id="south-carolina-heirloom-butter-beans">South Carolina Heirloom Butter Beans</h1>
+
+<p>The Hershberger lab was featured in an article published today in the Post and Courier: <a href="https://www.postandcourier.com/news/sc-gardeners-trove-of-seeds-could-play-a-part-in-combating-climate-change-disease/article_79d4b4fa-69e5-11ed-89c1-2f90eb6be0bb.html">SC gardener’s trove of seeds could play a part in combating climate change, disease</a>.</p>
+
+<p>Over the course of the past sixty years, Mr. Carold Wicker of Prosperity, South Carolina, has collected and maintained these and other vegetable seeds from the Dutch Fork region of the state. Last month, Historian and University of South Carolina distinguished professor Dr. David Shields and Nat Bradford of Bradford Family Farm in Sumter, SC visited Mr. Wicker at his home to sample the seeds and stories Mr. Wicker has been saving. They collected a small number of seeds from each variety to add to the <a href="https://www.clemson.edu/public/seed/heirloom.html">Bradshaw Heirloom Collection</a> at Clemson’s main campus, where they will be maintained and distributed by the South Carolina Crop Improvement Association.</p>
+
+<p>We are honored to have been entrusted with six butter bean varieties from the the Carold Wicker Heirloom Edible Plants Collection and eight more from the Bradshaw Collection. Last week, we planted these and over 300 other diverse butter bean accessions in the greenhouse to produce seed for future field trials and breeding efforts. Stay tuned as we explore these and other Southeastern butter bean heirlooms!</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Photo courtesy of Dr. David Shields">
+    <img src="/HershLab.org/images/news/wicker_collection.png" style="
+        width: 100%;
+        max-height: unset;
+      " alt="Photo courtesy of Dr. David Shields" loading="lazy" onerror="this.src = '/HershLab.org/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Photo courtesy of Dr. David Shields
+
+    </figcaption>
+  
+</figure>]]></content><author><name>Jenna Hershberger</name></author><category term="butter beans" /><category term="announcement" /><summary type="html"><![CDATA[South Carolina Heirloom Butter Beans]]></summary></entry><entry><title type="html">Sweet Corn SCRI</title><link href="/HershLab.org/2022/12/16/sweet-corn-scri.html" rel="alternate" type="text/html" title="Sweet Corn SCRI" /><published>2022-12-16T00:00:00+00:00</published><updated>2023-08-21T20:29:41+00:00</updated><id>/HershLab.org/2022/12/16/sweet-corn-scri</id><content type="html" xml:base="/HershLab.org/2022/12/16/sweet-corn-scri.html"><![CDATA[<h1 id="the-hershberger-lab-joins-sweetcap">The Hershberger lab joins SweetCAP</h1>
+
+<p>The Sweet Corn Coordinated Agriculture Project (<a href="https://www.sweetcorndevelopment.org/sweet-cap.html">SweetCAP</a>), is a USDA NIFA-funded, multi-institution and multi-disciplinary effort to support sweet corn improvement across the US. Earlier this year, a second iteration of SweetCAP was selected for funding through the Specialty Crop Research Initiative.</p>
+
+<p>Throughout the project, the Hershberger lab will work closely with Dr. Marcio Resende and his <a href="https://www.resendelab.com/">University of Florida sweet corn breeding program</a> to develop and test genomic and phenomic resources and tools for use by the wider sweet corn community.</p>
+
+<p>This week, the SweetCAP team met in person at the <a href="https://www.sweetcorndevelopment.org">International Sweet Corn Development Association</a> annual meeting in West Palm Beach, Florida, to share research updates, tour a field site and packaging facility, and hear from stakeholders.</p>
+
+<p>We will soon be recruiting a postdoc for this project, so please reach out if you are interested in joining the team!</p>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sweet corn, an $800 million crop in America, gains continued scientific attention. <a href="https://twitter.com/UF?ref_src=twsrc%5Etfw">@UF</a> geneticist <a href="https://twitter.com/MarcioResendeJr?ref_src=twsrc%5Etfw">@MarcioResendeJr</a> recently received $3.97M to lead a national effort to breed disease and pest-resistant varieties and develop new technology. This adds to a $7.3M <a href="https://twitter.com/USDA_NIFA?ref_src=twsrc%5Etfw">@USDA_NIFA</a> grant. <a href="https://t.co/k4tErWdPJa">pic.twitter.com/k4tErWdPJa</a></p>&mdash; UF IFAS Solutions (@UF_IFAS) <a href="https://twitter.com/UF_IFAS/status/1579893101476610050?ref_src=twsrc%5Etfw">October 11, 2022</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>]]></content><author><name>Jenna Hershberger</name></author><category term="sweet corn" /><category term="announcement" /><summary type="html"><![CDATA[The Hershberger lab joins SweetCAP]]></summary></entry><entry><title type="html">Welcome, Tyler!</title><link href="/HershLab.org/2022/08/25/welcome-tyler.html" rel="alternate" type="text/html" title="Welcome, Tyler!" /><published>2022-08-25T00:00:00+00:00</published><updated>2023-08-21T20:29:41+00:00</updated><id>/HershLab.org/2022/08/25/welcome-tyler</id><content type="html" xml:base="/HershLab.org/2022/08/25/welcome-tyler.html"><![CDATA[<h1 id="tyler-williams-joins-the-lab-as-a-research-specialist">Tyler Williams joins the lab as a Research Specialist</h1>
+
+<p>Tyler received his B.S. in Biology from Francis Marion University in Florence, South Carolina. Most recently, Tyler was an Agricultural Research Assistant with the USDA and Clemson at the Pee Dee REC. Over the past year, he has gained experience in fieldwork, lab-based, and plant breeding activities.</p>
+
+<p>Tyler hit the ground running in the middle of field season and is quickly learning the ropes. We’re glad to have him on board!</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/HershLab.org/images/news/tyler_tractors.png" style="
+        width: 100%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/HershLab.org/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>]]></content><author><name>Jenna Hershberger</name></author><category term="welcome" /><category term="announcement" /><summary type="html"><![CDATA[Tyler Williams joins the lab as a Research Specialist]]></summary></entry><entry><title type="html">Butter beans!</title><link href="/HershLab.org/2022/06/30/butter-bean-update.html" rel="alternate" type="text/html" title="Butter beans!" /><published>2022-06-30T00:00:00+00:00</published><updated>2023-08-21T20:29:41+00:00</updated><id>/HershLab.org/2022/06/30/butter-bean-update</id><content type="html" xml:base="/HershLab.org/2022/06/30/butter-bean-update.html"><![CDATA[<h1 id="its-official---we-have-decided-on-our-first-crop">It’s official - we have decided on our first crop!</h1>
+
+<p>The Hershberger lab has started efforts towards building a butter bean (<em>Phaseolus lunatus</em>) breeding program. Butter beans, for those of you not from the Southern US, are also known as Lima beans. While <a href="https://tvtropes.org/pmwiki/pmwiki.php/Main/StockYuck#:~:text=he%20tries%20it.-,Lima%20beans,-%3A">Lima beans have become a trope</a> elsewhere, for many South Carolinians these beans evoke more positive memories: shelling beans with Grandma on the front porch, summer family meals, and plenty of bacon fat. What do butter beans bring to mind for you?</p>
+
+<p>Here in June and July in South Carolina, butter beans are harvested green. Our team recently had the opportunity to visit a large butter bean operation in Lumberton, North Carolina (about an hour north of us). Packhouse Farms has been growing butter beans for decades and has developed quite the growing and processing operation.</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="Harvesting (left) and shelling (right) beans at Packhouse Farms">
+    <img src="/HershLab.org/images/news/packhouse-combo.png" style="
+        width: 100%;
+        max-height: unset;
+      " alt="Harvesting (left) and shelling (right) beans at Packhouse Farms" loading="lazy" onerror="this.src = '/HershLab.org/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+    <figcaption class="figure-caption">
+      Harvesting (left) and shelling (right) beans at Packhouse Farms
+
+    </figcaption>
+  
+</figure>
+
+<p>This summer, the Hershberger lab is putting in the leg work to learn the ins and outs of butter bean production and processing. We are sharpening our pollination skills, gathering germplasm, and setting up our protocols and lab space for the coming influx of beans. If anyone has an heirloom or favorite variety of butter beans, send some our way so we can try it out!</p>
+
+<p>Are you a butter bean grower in the Southeast? We would love to visit your operation! Please reach out if you would be willing to partner in shaping the future of butter beans.</p>]]></content><author><name>Jenna Hershberger</name></author><category term="butter beans" /><category term="announcement" /><summary type="html"><![CDATA[It’s official - we have decided on our first crop!]]></summary></entry><entry><title type="html">Mobile spectrometer considerations</title><link href="/HershLab.org/2022/05/15/spectrometers.html" rel="alternate" type="text/html" title="Mobile spectrometer considerations" /><published>2022-05-15T00:00:00+00:00</published><updated>2023-08-21T20:29:41+00:00</updated><id>/HershLab.org/2022/05/15/spectrometers</id><content type="html" xml:base="/HershLab.org/2022/05/15/spectrometers.html"><![CDATA[<h1 id="-context"><i class="fas fa-seedling"></i> Context</h1>
+<p>Maybe you’ve read about mobile spectrometers in the latest issue of your favorite journal, or maybe the lab down the hall can’t stop talking about them at the department coffee hour. Regardless of how you first heard about them, mobile near-infrared spectrometers can seem too good to be true. Can you really predict the quality of your grain, fruit, or root non-destructively and without investing in a benchtop spectrometer that costs more than a brand new car?</p>
+
+<p>The answer is, of course, <em>it depends</em>. Which traits are you interested in predicting? What is your required accuracy and precision? Is there existing literature that successfully predicts your trait of interest with near-infrared spectroscopy? How much time are you willing to invest in protocol development? Do you have access to model training software or the coding skills to use a free R package? Do you have a plan for managing your data?</p>
+
+<p>And on top of these, there are spectrometer-specific questions to ask as well: What is your budget? Do you already have access to a laboratory-grade benchtop spectrometer through a collaborator or shared equipment at your organization? Given that most mobile spectrometers have more limited spectral ranges, can your trait of interest be predicted within the range measured by your desired mobile spectrometer (a brief literature search may give you a ballpark to aim for)? Is shipping available to your area? Can you get it in time for your planned experiment?</p>
+
+<p>Consider yourself warned – model development can take a lot of time and effort. If you’re short on time but flush with cash, you may want to consider using a more expensive spectrometer or another method entirely. If you’re committed to the mobile spectrometer train, decide on your plan of attack early. Conduct a few pilot experiments to get your methods nailed down. Trust me, it’s worth the upfront effort to avoid wasting time and resources with your full-scale data collection.</p>
+
+<h1 id="-hardware-comparison"><i class="fas fa-camera"></i> Hardware comparison</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Spectrometer</th>
+      <th>Range (nm)</th>
+      <th>Firsthand experience</th>
+      <th>Connection</th>
+      <th>Software</th>
+      <th> Approximate price</th>
+      <th>Other considerations</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>[SCiO](https://shop.consumerphysics.com/)</td>
+      <td>740-1070</td>
+      <td>Works well for cassava root water and starch content, squash brix. Currently testing for phenomic selection</td>
+      <td>Bluetooth</td>
+      <td>Comes with app for Apple and Android</td>
+      <td> $   2,000.00</td>
+      <td>Requires license for access to raw spectra. Comes with one year license, but $3k/yr after that</td>
+    </tr>
+    <tr>
+      <td>[LinkSquare1](applewebdata://1CC14E71-4508-4695-8155-74F1585839D8/linksquare.io)</td>
+      <td>~400-1000</td>
+      <td>Do not recommend</td>
+      <td>WiFi</td>
+      <td>[Prospector](https://play.google.com/store/apps/details?id=org.phenoapps.prospector&amp;hl=en_US&amp;gl=US)</td>
+      <td> $      550.00</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>[LinkSquareNIR](applewebdata://1CC14E71-4508-4695-8155-74F1585839D8/linksquare.io)</td>
+      <td>~700-1050</td>
+      <td>Do not recommend</td>
+      <td>WiFi</td>
+      <td>[Prospector](https://play.google.com/store/apps/details?id=org.phenoapps.prospector&amp;hl=en_US&amp;gl=US)</td>
+      <td> $      650.00</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>[InnoSpectra](http://www.inno-spectra.com/en/product)</td>
+      <td>900-1700</td>
+      <td>Purchased but not yet tested</td>
+      <td>USB and Bluetooth</td>
+      <td>[Prospector](https://play.google.com/store/apps/details?id=org.phenoapps.prospector&amp;hl=en_US&amp;gl=US)</td>
+      <td> $   2,000.00</td>
+      <td>[Also marketed as TellSpec](https://tellspec.com/)</td>
+    </tr>
+    <tr>
+      <td>[Nix Spectro 2](https://www.nixsensor.com/nix-spectro-2/)</td>
+      <td>400-700</td>
+      <td>Purchased but not yet tested</td>
+      <td>Bluetooth</td>
+      <td>Comes with app for Apple and Android</td>
+      <td> $   1,300.00</td>
+      <td>Not sure if you can export raw data, but could reach out to company to find out. We may explore adding it to Prospector in the future</td>
+    </tr>
+    <tr>
+      <td>[GoyaLab IndiGo](https://www.goyalab.com/product-category/uv-vis-spectrometer-spectrophotometer/)</td>
+      <td>380-720</td>
+      <td> </td>
+      <td>USB and Bluetooth</td>
+      <td>Android, Windows</td>
+      <td>May add to [Prospector](https://play.google.com/store/apps/details?id=org.phenoapps.prospector&amp;hl=en_US&amp;gl=US)</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>[GoyaLab NIR](https://www.goyalab.com/product-category/near-infrared-spectrometer/)</td>
+      <td>720-1040</td>
+      <td> </td>
+      <td>USB and Bluetooth</td>
+      <td> </td>
+      <td>May add to [Prospector](https://play.google.com/store/apps/details?id=org.phenoapps.prospector&amp;hl=en_US&amp;gl=US). Company is working on one with a larger range: 950-1650nm</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>[QualitySpec Trek](https://www.malvernpanalytical.com/en/products/product-range/asd-range/qualityspec-range/qualityspec-trek-portable-spectrometer)</td>
+      <td>350-2500</td>
+      <td>Works well for cassava root water, starch, and carotenoid content</td>
+      <td>Records spectra internally. Connect with USB for data transfer direct to computer</td>
+      <td>Windows?</td>
+      <td> $ 50,000.00</td>
+      <td>Can’t input sample names so matching can be a pain</td>
+    </tr>
+    <tr>
+      <td>[MicroNIR](https://www.viavisolutions.com/en-us/osp/products/micronir-onsite-w#technical)</td>
+      <td>950-1650</td>
+      <td> </td>
+      <td>USB and Bluetooth</td>
+      <td>Windows</td>
+      <td> $ 20,000.00</td>
+      <td> </td>
+    </tr>
+    <tr>
+      <td>[Ocean Optics](https://www.oceaninsight.com/products/spectrometers/)</td>
+      <td>Various</td>
+      <td> </td>
+      <td>USB</td>
+      <td>Windows?</td>
+      <td> $   2,000.00</td>
+      <td>Requires fiber optic cable. Not marketed to consumers so may be less user friendly?</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>Last updated May 2022</p>
+
+<h1 id="-software-options"><i class="fas fa-laptop-code"></i> Software options</h1>
+<p><strong>Free &amp; open source</strong></p>
+<ul>
+  <li><a href="https://CRAN.R-project.org/package=waves">waves</a> (R package)</li>
+  <li><a href="https://play.google.com/store/apps/details?id=org.phenoapps.prospector&amp;hl=en_US&amp;gl=US">Prospector</a> (Android app for spectral data collection)</li>
+</ul>
+
+<p><strong>Proprietary/purchase required</strong></p>
+<ul>
+  <li>WinISI (Windows only)</li>
+  <li><a href="https://www.aspentech.com/en/products/msc/aspen-unscrambler">Unscrambler</a></li>
+</ul>
+
+<h1 id="-further-reading"><i class="fas fa-book-open"></i> Further reading</h1>
+
+<p><strong>Broad overview</strong></p>
+<ul>
+  <li>Pioneer Agronomy Resources: <a href="https://www.pioneer.com/us/agronomy/stretchbudgetNIRS.html">Stretch Your Sampling Budget with NIRS</a></li>
+  <li>Pioneer Agronomy Resources: <a href="https://www.pioneer.com/us/agronomy/nirs.html">NIRS Analysis Has Long and Credible History</a></li>
+</ul>
+
+<p><strong>In-depth overview</strong></p>
+<ul>
+  <li><a href="https://www.routledge.com/Handbook-of-Near-Infrared-Analysis/Ciurczak-Igne-Workman-Jr-Burns/p/book/9781138576483">Ciurczak, E. W., Igne, B., Workman Jr, J., &amp; Burns, D. A. (Eds.). (2021). Handbook of near-infrared analysis. CRC press.</a></li>
+  <li><a href="https://doi.org/10.1016/j.tifs.2019.01.015">Cortés, V., Blasco, J., Aleixos, N., Cubero, S., &amp; Talens, P. (2019). Monitoring strategies for quality control of agricultural products using visible and near-infrared spectroscopy: A review. Trends in Food Science &amp; Technology, 85, 138-148.</a> (Sections 1-3 are general NIRS overview)</li>
+  <li><a href="https://doi.org/10.1590/S0103-50532003000200006">Pasquini, C. (2003). Near infrared spectroscopy: fundamentals, practical aspects and analytical applications. Journal of the Brazilian chemical society, 14, 198-219.</a></li>
+</ul>]]></content><author><name>Jenna Hershberger</name></author><category term="spectroscopy" /><summary type="html"><![CDATA[Context Maybe you’ve read about mobile spectrometers in the latest issue of your favorite journal, or maybe the lab down the hall can’t stop talking about them at the department coffee hour. Regardless of how you first heard about them, mobile near-infrared spectrometers can seem too good to be true. Can you really predict the quality of your grain, fruit, or root non-destructively and without investing in a benchtop spectrometer that costs more than a brand new car?]]></summary></entry><entry><title type="html">Welcome!</title><link href="/HershLab.org/2022/04/24/welcome.html" rel="alternate" type="text/html" title="Welcome!" /><published>2022-04-24T00:00:00+00:00</published><updated>2023-08-21T20:29:41+00:00</updated><id>/HershLab.org/2022/04/24/welcome</id><content type="html" xml:base="/HershLab.org/2022/04/24/welcome.html"><![CDATA[<h1 id="welcome">Welcome!</h1>
+
+<p>The Hershberger lab will open its doors on May 1, 2022.</p>]]></content><author><name>Jenna Hershberger</name></author><category term="announcement" /><summary type="html"><![CDATA[Welcome!]]></summary></entry></feed>
