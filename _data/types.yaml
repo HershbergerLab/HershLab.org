@@ -226,3 +226,9 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+googleplay:
+  icon: fab fa-google-play
+  text: Google Play
+  tooltip: Google Play
+  link: https://play.google.com/store/apps/details?id=$LINK

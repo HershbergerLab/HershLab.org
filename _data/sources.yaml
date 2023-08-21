@@ -21,3 +21,128 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+
+# Sainfoin ontology
+- id: doi:10.3389/fpls.2023.1177406
+  image: images/publications/karabulut2023.jpg
+  date: "2022-05-15"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.3389/fpls.2023.1177406
+  tags:
+   - legumes
+   - data management
+
+# Cassava NIRS starch prediction
+- id: doi:10.3389/fpls.2022.990250
+  image: images/publications/mbanjo2022.jpg
+  date: "2022-11-08"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.3389/fpls.2022.990250
+  tags:
+   - spectroscopy
+   - cassava
+
+# CSA News sweet corn
+- id: doi:10.1002/csan.20750
+  type: article
+  image: images/news/jenna_harvesting.JPG
+  date: "2022-05-03"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1002/csan.20750
+  tags:
+    - transcriptomics
+    - sweet corn
+    - nutritional quality
+
+# prospector
+- id: doi:10.1002/ppj2.20024
+  image: images/publications/prospector-icon.png
+  date: "2021-09-22"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.20024
+    - type: preprint
+      link: https://arxiv.org/abs/2104.07071v1
+    - type: googleplay
+      link: org.phenoapps.prospector
+  tags:
+    - spectroscopy
+    - data management
+
+# waves
+- id: doi:10.1002/ppj2.20012
+  image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
+  date: "2021-03-15"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.20012
+    - type: preprint
+      link: https://doi.org/10.1101/2020.09.18.278549
+    - type: github
+      link: GoreLab/waves
+    - type: package
+      link: https://CRAN.R-project.org/package=waves
+  tags:
+    - spectroscopy
+    - R
+    - data management
+
+# COBP review
+- id: doi:10.1016/j.pbi.2021.102150
+  image: images/publications/vantassel2022.jpeg
+  date: "2022-02-01"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1016/j.pbi.2021.102150
+  tags:
+    - spectroscopy
+    - phenomic selection
+
+# sweet corn transcriptomics
+- id: doi:10.1002/tpg2.20197
+  image: images/research/sweetcornplot.png
+  date: "2022-03-08"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1002/tpg2.20197
+    - type: preprint
+      link: https://doi.org/10.1101/2021.09.24.461734
+    - type: github
+      link: GoreLab/SweetCornRNA
+    - type: data
+      link: https://datacommons.cyverse.org/browse/iplant/home/shared/GoreLab/dataFromPubs/Hershberger_SweetCornRNA_2021
+  tags:
+    - transcriptomics
+    - sweet corn
+    - nutritional quality
+
+# cassava nirs
+- id: doi:10.1002/ppj2.20040
+  image: https://raw.githubusercontent.com/jmh579/jmh579.github.io/master/assets/images/nacrri.jpg
+  date: "2022-03-31"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.20040
+    - type: preprint
+      link: https://doi.org/10.1101/2021.04.30.441802
+    - type: github
+      link: GoreLab/CassavaNIRS
+    - type: data
+      link: https://datacommons.cyverse.org/browse/iplant/home/shared/GoreLab/dataFromPubs/Hershberger_CassavaNIRS_2021
+  tags:
+    - spectroscopy
+    - cassava
+
+# breedbase
+- id: doi:10.1093/g3journal/jkac078
+  image: images/publications/morales2022.png
+  date: "2022-04-06"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1093/g3journal/jkac078
+  tags:
+    - data management
