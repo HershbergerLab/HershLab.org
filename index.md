@@ -73,7 +73,7 @@ We are hiring a postdoctoral scholar to start in fall 2023. Find descriptions an
 {%
   include feature.html
   image="images/home/planting_lunatus.jpg"
-  link="team"
+  link="join"
   title="Join us!"
   text=text
 %}
