@@ -5,7 +5,7 @@ title: Join the Team
 # {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
 
 
-#### Postdocs
+## Postdocs
 
 **We're hiring!** 
 The lab has one opening for a highly motivated postdoctoral research fellow with expertise in one or more of the following areas: genetics, genomics, phenomics, population genetics, quantitative genetics, or plant breeding. 
@@ -18,7 +18,7 @@ Submission and proposal information and deadlines vary by program, so it is high
 If you are interested in applying for a fellowship, send your CV, cover letter, contact information for three references, and an outline of your proposal to Jenna Hershberger at [jmhersh@clemson.edu](mailto:jmhersh@clemson.edu).
 Please do this well in advance of the proposal deadline so that we have adequate time to prepare a competitive proposal.
 
-#### Graduate Students
+## Graduate Students
 
 Available MS and PhD assistantships will be posted on the Clemson [Plant and Environmental Sciences Assistantship Openings](https://www.clemson.edu/cafls/plant-environmental-sciences/students/assistantships.html) site.
 Typically, graduate students will reside in Clemson, SC for the first year of the graduate program to fulfill course requirements.
