@@ -8,10 +8,7 @@ title: Join the Team
 # Postdocs
 
 **We're hiring!** 
-The lab has one opening for a highly motivated postdoctoral research fellow with expertise in one or more of the following areas: genetics, genomics, phenomics, population genetics, quantitative genetics, or plant breeding. 
-Experience with genomic selection is desired. The incumbant will explore the application of phenomic selection to sweet corn as part of the [SweetCAP project](https://hershlab.org/2022/12/16/sweet-corn-scri.html). 
-For a full position description and to apply, please visit the [official posting website](https://apply.interfolio.com/121117). 
-The position will remain open until a suitable candidate is identified.
+Please check back soon -- we are in the process of developing a position description for an upcoming postdoctoral researcher position with the lab. Get a sneak peek at the project [here](https://news.clemson.edu/clemson-scientists-work-with-global-partners-to-develop-climate-resistant-cereal-crops/).
 
 We would also be happy to work with you to submit a fellowship proposal to programs such as the [NSF Postdoctoral Research Fellowships in Biology](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or the [USDA NIFA AFRI Education and Workforce Development](https://www.nifa.usda.gov/grants/programs/afri-education-workforce-development).
 Submission and proposal information and deadlines vary by program, so it is highly recommended that interested individuals check the respective program websites frequently.

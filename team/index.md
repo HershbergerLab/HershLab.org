@@ -37,6 +37,8 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 ## Funding
 
 {% capture content %}
+[![USAID](/images/team/funding/usaid.png)](https://www.usaid.gov/)
+
 [![USDA NIFA](/images/team/funding/usda.png)](https://www.nifa.usda.gov)
 
 [![South Carolina Department of Agriculture](/images/team/funding/SCDA.png)](https://agriculture.sc.gov)
@@ -57,6 +59,6 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 {% 
   include figure.html
   image = "images/team/planting_2023.JPEG"
-  caption = "Planting butter beans"
+  caption = "Planting butter beans (2023)"
   width = "100%"
 %}
