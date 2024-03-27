@@ -4,8 +4,7 @@ images: images/news/tyler_tractors.png
 tags:
   - welcome
   - announcement
-author: Jenna Hershberger
-member: jenna-hershberger
+author: jenna-hershberger
 ---
 
 # Tyler Williams joins the lab as a Research Specialist

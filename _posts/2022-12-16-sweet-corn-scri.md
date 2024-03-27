@@ -4,8 +4,7 @@ images: images/news/sweet_corn.png
 tags:
   - sweet corn
   - announcement
-author: Jenna Hershberger
-member: jenna-hershberger
+author: jenna-hershberger
 ---
 
 # The Hershberger lab joins SweetCAP

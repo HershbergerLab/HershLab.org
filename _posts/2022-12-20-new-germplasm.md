@@ -4,8 +4,7 @@ images: images/news/wicker_collection.png
 tags:
   - butter beans
   - announcement
-author: Jenna Hershberger
-member: jenna-hershberger
+author: jenna-hershberger
 ---
 
 # South Carolina Heirloom Butter Beans

@@ -3,8 +3,7 @@ title: Butter beans!
 tags:
   - butter beans
   - announcement
-author: Jenna Hershberger
-member: jenna-hershberger
+author: jenna-hershberger
 ---
 
 # It's official - we have decided on our first crop!

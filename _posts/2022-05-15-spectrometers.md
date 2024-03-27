@@ -2,8 +2,7 @@
 title: Mobile spectrometer considerations
 tags:
   - spectroscopy
-author: Jenna Hershberger
-member: jenna-hershberger
+author: jenna-hershberger 
 ---
 
 # <i class="fas fa-seedling"></i> Context
