@@ -1,5 +1,6 @@
 ---
 name: Shawn Chandler
+image: images/team/lady-beetle_1f41e.png
 role: technician
 aliases:
   - S Chandler
