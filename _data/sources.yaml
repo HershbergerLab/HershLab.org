@@ -121,3 +121,8 @@
       link: https://doi.org/10.1093/g3journal/jkac078
   tags:
     - data management
+
+# remove extra things from orcid
+# waves preprint
+- id: doi:10.1101/2020.09.18.278549
+  remove: true
