@@ -1,5 +1,4 @@
 ---
-title: Home
 ---
 
 # Vegetable Breeding & Genetics at Clemson University
