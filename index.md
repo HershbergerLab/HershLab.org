@@ -24,7 +24,7 @@ We strive to share our research with the broader scientific community, prioritiz
 
 {%
   include feature.html
-  image="images/research/sweetcornplot.jpg"
+  image="images/research/sweetcornplot.png"
   link="publications"
   title="Our publications"
   text=text

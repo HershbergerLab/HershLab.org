@@ -37,17 +37,13 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 ## Funding
 
 {% capture content %}
-[![USAID](/images/team/funding/usaid.png)](https://www.usaid.gov/)
 
-[![USDA NIFA](/images/team/funding/usda.png)](https://www.nifa.usda.gov)
-
-[![South Carolina Department of Agriculture](/images/team/funding/SCDA.png)](https://agriculture.sc.gov)
-
-[![The Land Institute](/images/team/funding/TLI.png)](https://landinstitute.org)
-
-[![McCall Farms](/images/team/funding/mccall-farms.png)](https://www.mccallfarms.com)
-
-[![Clemson University](/images/team/funding/clemson.jpg)](https://www.clemson.edu/)
+{% include figure.html image="/images/team/funding/usaid.png" link="https://www.usaid.gov/" %}
+{% include figure.html image="/images/team/funding/usda.png" link="https://www.nifa.usda.gov" %}
+{% include figure.html image="/images/team/funding/SCDA.png" link="https://agriculture.sc.gov" %}
+{% include figure.html image="/images/team/funding/TLI.png" link="https://landinstitute.org" %}
+{% include figure.html image="/images/team/funding/mccall-farms.png" link="https://www.mccallfarms.com" %}
+{% include figure.html image="/images/team/funding/clemson.jpg" link="https://www.clemson.edu/" %}
 
 {% endcapture %}
 
