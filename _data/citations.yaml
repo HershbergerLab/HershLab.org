@@ -226,23 +226,6 @@
   tags:
   - spectroscopy
   - cassava
-- id: doi:10.1101/2020.09.18.278549
-  title: 'Making WAVES in Breedbase: An Integrated Spectral Data Storage and Analysis
-    Pipeline for Plant Breeding Programs'
-  authors:
-  - Jenna Hershberger
-  - Nicolas Morales
-  - Christiano C. Simoes
-  - Bryan Ellerbrock
-  - Guillaume Bauchet
-  - Lukas A. Mueller
-  - Michael A. Gore
-  publisher: Cold Spring Harbor Laboratory
-  date: '2020-09-20'
-  link: https://doi.org/gsmshk
-  orcid: 0000-0002-3147-6867
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1002/ppj2.20024
   title: "Prospector: A mobile application for portable, high\u2010throughput near\u2010\
     infrared spectroscopy phenotyping"
