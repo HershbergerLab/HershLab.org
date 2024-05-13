@@ -1,3 +1,12 @@
+- title: Green bean variety trials
+  group: featured
+  image: images/research/gb_field.png
+  link: https://hershbergerlab.github.io/GreenBeans/
+  description: We partnered with McCall Farms to conduct our first variety trial in 2023 at Clemson's PDREC. We are excited to continue this work 2024. 
+  repo: HershbergerLab/GreenBeans/
+  tags:
+    - green beans
+
 - title: waves
   group: featured
   image: images/research/waveslogo.png

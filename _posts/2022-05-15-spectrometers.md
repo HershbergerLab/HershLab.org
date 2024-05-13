@@ -6,7 +6,9 @@ author: jenna-hershberger
 ---
 
 # <i class="fas fa-seedling"></i> Context
-Maybe you've read about mobile spectrometers in the latest issue of your favorite journal, or maybe the lab down the hall can't stop talking about them at the department coffee hour. Regardless of how you first heard about them, mobile near-infrared spectrometers can seem too good to be true. Can you really predict the quality of your grain, fruit, or root non-destructively and without investing in a benchtop spectrometer that costs more than a brand new car?
+<!-- excerpt start -->
+Maybe you've read about mobile spectrometers in the latest issue of your favorite journal, or maybe the lab down the hall can't stop talking about them at the department coffee hour. Regardless of how you first heard about them, mobile near-infrared spectrometers can seem too good to be true. Can you really predict the quality of your grain, fruit, or root non-destructively and without investing in a benchtop spectrometer that costs more than a brand new car? 
+<!-- excerpt end -->
 
 The answer is, of course, *it depends*. Which traits are you interested in predicting? What is your required accuracy and precision? Is there existing literature that successfully predicts your trait of interest with near-infrared spectroscopy? How much time are you willing to invest in protocol development? Do you have access to model training software or the coding skills to use a free R package? Do you have a plan for managing your data?
 
@@ -35,6 +37,7 @@ Last updated May 2022
 **Free & open source**
 - [waves](https://CRAN.R-project.org/package=waves) (R package)
 - [Prospector](https://play.google.com/store/apps/details?id=org.phenoapps.prospector&hl=en_US&gl=US) (Android app for spectral data collection)
+- [Orange](https://orangedatamining.com)
 
 **Proprietary/purchase required**
 - WinISI (Windows only)

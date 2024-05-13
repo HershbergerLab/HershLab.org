@@ -1,16 +1,16 @@
 ---
 title: Sweet Corn SCRI
-images: images/news/sweet_corn.png
+image: images/news/sweet_corn.png
 tags:
   - sweet corn
   - announcement
 author: jenna-hershberger
 ---
-
+<!-- excerpt start -->
 # The Hershberger lab joins SweetCAP
 
 The Sweet Corn Coordinated Agriculture Project ([SweetCAP](https://www.sweetcorndevelopment.org/sweet-cap.html)), is a USDA NIFA-funded, multi-institution and multi-disciplinary effort to support sweet corn improvement across the US. Earlier this year, a second iteration of SweetCAP was selected for funding through the Specialty Crop Research Initiative.
-
+<!-- excerpt end -->
 Throughout the project, the Hershberger lab will work closely with Dr. Marcio Resende and his [University of Florida sweet corn breeding program](https://www.resendelab.com/) to develop and test genomic and phenomic resources and tools for use by the wider sweet corn community.
 
 This week, the SweetCAP team met in person at the [International Sweet Corn Development Association](https://www.sweetcorndevelopment.org) annual meeting in West Palm Beach, Florida, to share research updates, tour a field site and packaging facility, and hear from stakeholders.
