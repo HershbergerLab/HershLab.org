@@ -5,7 +5,7 @@ nav:
   tooltip: Vegetable Breeding Program
 ---
 
-# {% include icon.html icon="fa-solid fa-carrot" %}Vegetable Breeding and Genetics Research{% include icon.html icon="fa-solid fa-dna" %}
+# {% include icon.html icon="fa-solid fa-carrot" %}Vegetable Breeding and Genetics Research
 
 As the world's food supply faces the dual threats of population growth and climate change, many have rallied around a call for increased productivity and plant resiliency. While this need is indisputably clear, focusing solely on quantity omits an aspect essential to true food security – quality. To holistically meet the dietary needs of nine billion people in the next thirty years, improved crop varieties must adhere to consumer preferences and provide adequate quantities of micronutrients.
 

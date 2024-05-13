@@ -3,6 +3,8 @@
 
 # Vegetable Breeding & Genetics at Clemson University
 
+{% include figure.html image="images/home/banner_butter_beans.png" width="100%" %}
+
 {% include section.html %}
 
 ## Highlights
