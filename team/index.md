@@ -34,28 +34,35 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 
 {% include section.html %}
 
-## Funding
 
-{% capture content %}
+{% capture col1 %}
 
-{% include figure.html image="/images/team/funding/usaid.png" link="https://www.usaid.gov/" %}
-{% include figure.html image="/images/team/funding/usda.png" link="https://www.nifa.usda.gov" %}
-{% include figure.html image="/images/team/funding/SCDA.png" link="https://agriculture.sc.gov" %}
-{% include figure.html image="/images/team/funding/TLI.png" link="https://landinstitute.org" %}
-{% include figure.html image="/images/team/funding/mccall-farms.png" link="https://www.mccallfarms.com" %}
-{% include figure.html image="/images/team/funding/clemson.jpg" link="https://www.clemson.edu/" %}
+{%
+  include figure.html
+  image="images/team/planting_2023.JPEG"
+  caption = "Planting butter beans (2023)"
+%}
 
 {% endcapture %}
 
-{% include grid.html content=content %}
+{% capture col2 %}
 
+{% 
+  include figure.html 
+  image="images/team/team_2024.PNG"
+  caption = "Post-planting smiles (2024)" 
+%}
+
+{% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
 
 {% include section.html %}
 
-{% 
-  include figure.html
-  image = "images/team/planting_2023.JPEG"
-  caption = "Planting butter beans (2023)"
-  width = "100%"
-%}
 
+## Funding
+
+{%
+  include figure.html
+  image="images/team/funding/funders.png"
+%}

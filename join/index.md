@@ -17,7 +17,7 @@ The postdoctoral fellow is expected to contribute a major portion of time toward
 
 The postdoctoral fellow will work closely with multi-institutional project teams in genomics, genome editing, product profile development, nutritional characterization, and crop modeling to effectively make advances in the identification and delivery of important genes and alleles that improve the ability of cereal crops to produce quality grain under harsh environmental conditions. Key U.S. collaborations in CRCIL include Kansas State University (project lead), Clemson University, Cornell University, Breeding Insight, Delaware State University, Louisiana State University, and the University of Florida.
 
-The project website is still under development, but a sneak peek at the planned work is featured [here](https://news.clemson.edu/clemson-scientists-work-with-global-partners-to-develop-climate-resistant-cereal-crops/). 
+Learn more about the project on [our website](https://www.k-state.edu/crcil/). 
 
 ### **Interested? [Apply online](http://apply.interfolio.com/145696) by May 29, 2024 for full consideration.**
 
