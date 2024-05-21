@@ -49,7 +49,7 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 
 {% 
   include figure.html 
-  image="images/team/team_2024.PNG"
+  image="images/team/team_2024.jpg"
   caption = "Post-planting smiles (2024)" 
 %}
 
