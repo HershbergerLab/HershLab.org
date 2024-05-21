@@ -1,6 +1,6 @@
 ---
 title: Sweet Corn SCRI
-image: images/news/sweet_corn.jpg
+image: images/news/sweet-corn.jpg
 tags:
   - sweet corn
   - announcement
