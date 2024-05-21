@@ -3,6 +3,7 @@ title: Mobile spectrometer considerations
 tags:
   - spectroscopy
 author: jenna-hershberger 
+last_modified_at: ""
 ---
 
 # <i class="fas fa-seedling"></i> Context
@@ -31,7 +32,6 @@ Consider yourself warned -- model development can take a lot of time and effort.
 | [MicroNIR](https://www.viavisolutions.com/en-us/osp/products/micronir-onsite-w#technical)                                                           | 950-1650   |                                                                                                             | USB and Bluetooth                                                                 | Windows                                                                                             |  $ 20,000.00                                                                     |                                                                                                                                       |
 | [Ocean Optics](https://www.oceaninsight.com/products/spectrometers/)                                                                                | Various    |                                                                                                             | USB                                                                               | Windows?                                                                                            |  $   2,000.00                                                                    | Requires fiber optic cable. Not marketed to consumers so may be less user friendly?                                                   |
 
-Last updated May 2022
 
 # <i class="fas fa-laptop-code"></i> Software options
 **Free & open source**

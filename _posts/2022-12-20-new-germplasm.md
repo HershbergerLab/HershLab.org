@@ -5,6 +5,7 @@ tags:
   - butter beans
   - announcement
 author: jenna-hershberger
+last_modified_at: ""
 ---
 <!-- excerpt start -->
 # South Carolina Heirloom Butter Beans
