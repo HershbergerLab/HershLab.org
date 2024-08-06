@@ -7,7 +7,7 @@ title: Join the Team
 
 # Postdocs
 
-Interested in a postdoc with the lab? Jenna would be happy to work with you to submit a fellowship proposal to programs such as the [NSF Postdoctoral Research Fellowships in Biology](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or the [USDA NIFA AFRI Education and Workforce Development](https://www.nifa.usda.gov/grants/programs/afri-education-workforce-development).
+Interested in joining the lab as a postdoc? Jenna would be happy to work with you to submit a fellowship proposal to programs such as the [NSF Postdoctoral Research Fellowships in Biology](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or the [USDA NIFA AFRI Education and Workforce Development](https://www.nifa.usda.gov/grants/programs/afri-education-workforce-development).
 Submission and proposal information and deadlines vary by program, so it is highly recommended that interested individuals check the respective program websites frequently.
 If you are interested in applying for a fellowship, send your CV, cover letter, contact information for three references, and an outline of your proposal to Jenna Hershberger at [jmhersh@clemson.edu](mailto:jmhersh@clemson.edu).
 Please do this well in advance of the proposal deadline so that we have adequate time to prepare a competitive proposal.
