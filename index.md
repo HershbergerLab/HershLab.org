@@ -59,7 +59,7 @@ We are working to characterize, understand, and improve nutritional quality and 
 
 {% capture text %}
 
-We are hiring a postdoctoral scholar to start in summer 2024. Find descriptions and applications links on our [Team page](team).
+Find position descriptions and application links on our [Team page](team).
 {%
   include button.html
   link="team"
