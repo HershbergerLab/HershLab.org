@@ -34,7 +34,7 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 
 {% include section.html %}
 
-
+<!---
 ## Alumni
 
 {% include list.html data="members" component="portrait" filters="role: technician, group: alum" style="small" %}
@@ -47,7 +47,7 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 {% include list.html data="members" component="portrait" filters="role: mascot-c, group: alum" style="small" %}
 
 {% include section.html %}
-
+-->
 
 {% capture col1 %}
 
