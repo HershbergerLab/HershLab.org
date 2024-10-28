@@ -1,10 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-28T20:39:26+00:00</updated><id>/feed.xml</id><title type="html">Hershberger Lab</title><subtitle>Vegetable breeding and genetics at Clemson University&apos;s Pee Dee Research and Education Center</subtitle><entry><title type="html">New NIFA AFRI DSFAS award</title><link href="/2024/09/01/DSFAS-HDP.html" rel="alternate" type="text/html" title="New NIFA AFRI DSFAS award" /><published>2024-09-01T00:00:00+00:00</published><updated>2024-10-28T20:37:23+00:00</updated><id>/2024/09/01/DSFAS-HDP</id><content type="html" xml:base="/2024/09/01/DSFAS-HDP.html"><![CDATA[<!-- excerpt start -->
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2024-10-28T21:03:07+00:00</updated><id>/feed.xml</id><title type="html">Hershberger Lab</title><subtitle>Vegetable breeding and genetics at Clemson University&apos;s Pee Dee Research and Education Center</subtitle><entry><title type="html">New NIFA AFRI DSFAS award</title><link href="/2024/09/01/DSFAS-HDP.html" rel="alternate" type="text/html" title="New NIFA AFRI DSFAS award" /><published>2024-09-01T00:00:00+00:00</published><updated>2024-10-28T20:52:45+00:00</updated><id>/2024/09/01/DSFAS-HDP</id><content type="html" xml:base="/2024/09/01/DSFAS-HDP.html"><![CDATA[<!-- excerpt start -->
 <h1 id="hershberger-lab-leading-new-project-focused-on-data-management-for-high-dimensional-phenotypes">Hershberger Lab leading new project focused on data management for high dimensional phenotypes</h1>
 
 <p>NIFA <a href="https://www.nifa.usda.gov/about-nifa/announcements/nifa-invests-74m-data-science-food-agricultural-systems-a1541">recently announced awardees</a> for the
 <a href="https://www.nifa.usda.gov/grants/programs/data-science-food-agricultural-systems-dsfas">AFRI Foundational Data Science for Food and Agriculture Systems (DSFAS) program area priority (A1541)</a>. The Hershberger Lab is leading grant no. <a href="https://portal.nifa.usda.gov/web/crisprojectpages/1032341-dsfas-partnership-high-dimensional-phenotype-data-management-and-analysis-infrastructure-for-plant-breeding.html">SC-2023-11724</a>, <em>High-Dimensional Phenotype Data Management and Analysis Infrastructure for Plant Breeding.</em>
 <!-- excerpt end -->
 This project is a collaboration with Trevor Rife (Clemson), Lukas Mueller (BTI), Jean-Luc Jannink (USDA-ARS), and Peter Selby (Cornell).</p>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/research/dsfas-hdp.png" style="
+        width: 100%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;" />
+  </a>
+  
+</figure>
 
 <p><strong>Project summary:</strong>
 Plant high dimensional phenotypes (HDPs) are an increasingly valuable tool for understanding biological function and informing plant breeding selection decisions. 
@@ -23,8 +33,7 @@ This project focuses on adding support for HDPs to these tools through the follo
 
 <p>E. Develop HDP BrAPI-enabled analysis applications (BrAPPs) that integrate omics and other plant breeding data types.</p>
 
-<p>The tools developed from this project will provide the digital ecosystem necessary to handle and integrate HDP data with other plant breeding data types, ultimately accelerating the development of improved crop varieties for food, fiber, and fuel. 
-This proposed project addresses the AFRI Program Priority Areas of Plant Health and Production and Plant Products and Agriculture Systems and Technology.</p>]]></content><author><name>jenna-hershberger</name></author><category term="announcement" /><summary type="html"><![CDATA[Hershberger Lab leading new project focused on data management for high dimensional phenotypes]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/research/dsfas-hdp.png" /><media:content medium="image" url="/images/research/dsfas-hdp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Announcing CRCIL</title><link href="/2023/10/27/CRCIL.html" rel="alternate" type="text/html" title="Announcing CRCIL" /><published>2023-10-27T00:00:00+00:00</published><updated>2024-10-28T20:37:23+00:00</updated><id>/2023/10/27/CRCIL</id><content type="html" xml:base="/2023/10/27/CRCIL.html"><![CDATA[<!-- excerpt start -->
+<p>The tools developed from this project will provide the digital ecosystem necessary to handle and integrate HDP data with other plant breeding data types, ultimately accelerating the development of improved crop varieties for food, fiber, and fuel.</p>]]></content><author><name>jenna-hershberger</name></author><category term="announcement" /><summary type="html"><![CDATA[Hershberger Lab leading new project focused on data management for high dimensional phenotypes]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/images/research/dsfas-hdp.png" /><media:content medium="image" url="/images/research/dsfas-hdp.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Announcing CRCIL</title><link href="/2023/10/27/CRCIL.html" rel="alternate" type="text/html" title="Announcing CRCIL" /><published>2023-10-27T00:00:00+00:00</published><updated>2024-10-28T20:52:45+00:00</updated><id>/2023/10/27/CRCIL</id><content type="html" xml:base="/2023/10/27/CRCIL.html"><![CDATA[<!-- excerpt start -->
 <h1 id="hershberger-lab-joins-the-new-usaid-climate-resilient-cereals-innovation-lab">Hershberger Lab joins the new USAID Climate Resilient Cereals Innovation Lab</h1>
 
 <p>The United States Agency for International Development (USAID) announced today that it has funded a new $22 million project to support the development of climate resilient cereals.
