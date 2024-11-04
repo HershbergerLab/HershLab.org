@@ -6,7 +6,11 @@ title: BrAPI High Dimensional Phenotypes
 
 ## Expanding the digital ecosystem for high-dimensional phenotypes in plant breeding
 
-![Project overview figure](images/research/dsfas-hdp.png)
+{%
+  include figure.html
+  image="images/research/dsfas-hdp.png"
+  width="100%"
+%}
 
 High dimensional phenotypes (HDPs) are promising tools for the advancement of diverse biological research, especially in plant breeding and genetics. HDPs, also known as “omics” data, encompass a variety of data types, such as spectral, metabolomic, transcriptomic, proteomic, and microbiome metagenomic data. HDPs share a characteristic structure in which each observation is comprised of an annotated vector of sub-observations (e.g., individual metabolite abundances for metabolomics). This complex structure poses challenges for HDP storage, transfer, and analysis. To fully realize the potential of HDPs for crop improvement, it is essential to develop tools that enable plant breeders to manage and integrate new HDP data types with traditional plant breeding data. Armed with these tools, plant breeders will be better able to develop improved plant varieties for food, fiber, and fuel.
 
