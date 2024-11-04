@@ -34,3 +34,9 @@ Using tools from genomics, proximal sensing, and computer programming, the Hersh
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
+
+## More
+
+{% include list.html component="card" data="projects" filters="group: more" style="small" %}
+
+{% include section.html %}

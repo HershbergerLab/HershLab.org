@@ -1,6 +1,6 @@
 - title: High-dimensional phenotype data management
   group: featured
-  image: images/research/dsfas-hdp.png
+  image: images/news/hdp-banner.png
   link: research/brapi-hdp
   description:  The Hershberger Lab is leading a new AFRI DSFAS project, High-Dimensional Phenotype Data Management and Analysis Infrastructure for Plant Breeding, in collaboration with Trevor Rife, Lukas Mueller, Jean-Luc Jannink, and Peter Selby.
   tags:
@@ -18,7 +18,7 @@
     - green beans
 
 - title: waves
-  group: featured
+  group: more
   image: images/research/waveslogo.png
   link: https://gorelab.github.io/waves/
   description: Originally designed application in the context of resource-limited plant research and breeding programs, 'waves' provides an open-source solution to spectral data processing and model development by bringing useful packages together into a streamlined pipeline.
@@ -28,7 +28,7 @@
     - spectroscopy
 
 - title: Sweet corn transcriptomics
-  group: featured
+  group: more
   image: images/research/sweetcornplot.png
   link: https://doi.org/10.1002/tpg2.20197
   description: We used fresh sweet corn kernel 3'RNAseq for transcriptome-wide association and prediction of carotenoid and tocochromanol content.
@@ -39,7 +39,7 @@
     - nutritional quality
 
 - title: Cassava NIRS
-  group: featured
+  group: more
   image: images/research/nacrri.jpg
   link: https://gorelab.github.io/CassavaNIRS/
   journal: https://doi.org/10.1002/ppj2.20040

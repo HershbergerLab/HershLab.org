@@ -2,26 +2,20 @@
 title: BrAPI High Dimensional Phenotypes
 ---
 
-# {% include icon.html icon="fa-solid fa-handshake-angle" %}Join the Team
+# {% include icon.html icon="fa-solid fa-diagram-project" %}BrAPI High Dimensional Phenotypes
 
+## Expanding the digital ecosystem for high-dimensional phenotypes in plant breeding
 
-# Postdocs
+![Project overview figure](images/research/dsfas-hdp.png)
 
-Interested in joining the lab as a postdoc? Jenna would be happy to work with you to submit a fellowship proposal to programs such as the [NSF Postdoctoral Research Fellowships in Biology](https://beta.nsf.gov/funding/opportunities/postdoctoral-research-fellowships-biology-prfb) or the [USDA NIFA AFRI Education and Workforce Development](https://www.nifa.usda.gov/grants/programs/afri-education-workforce-development).
-Submission and proposal information and deadlines vary by program, so it is highly recommended that interested individuals check the respective program websites frequently.
-If you are interested in applying for a fellowship, send your CV, cover letter, contact information for three references, and an outline of your proposal to Jenna Hershberger at [jmhersh@clemson.edu](mailto:jmhersh@clemson.edu).
-Please do this well in advance of the proposal deadline so that we have adequate time to prepare a competitive proposal.
+High dimensional phenotypes (HDPs) are promising tools for the advancement of diverse biological research, especially in plant breeding and genetics. HDPs, also known as “omics” data, encompass a variety of data types, such as spectral, metabolomic, transcriptomic, proteomic, and microbiome metagenomic data. HDPs share a characteristic structure in which each observation is comprised of an annotated vector of sub-observations (e.g., individual metabolite abundances for metabolomics). This complex structure poses challenges for HDP storage, transfer, and analysis. To fully realize the potential of HDPs for crop improvement, it is essential to develop tools that enable plant breeders to manage and integrate new HDP data types with traditional plant breeding data. Armed with these tools, plant breeders will be better able to develop improved plant varieties for food, fiber, and fuel.
 
-# Graduate Students
+This project aims to increase the accessibility of HDPs for plant breeding programs. HDPs, or omics data, are powerful tools that inform our collective knowledge of biological processes and enable more efficient plant breeding selection decisions. To further the utility of HDPs for routine use in plant breeding programs, these data must be clearly structured, easily accessible, and fully integrated with other data types. The development of HDP BrAPI endpoints and BrAPI-enabled collection, management, and analysis tools will enable the efficient handling of HDP data across diverse plant breeding and research programs.
 
-Available MS and PhD assistantships will be posted on the Clemson [Plant and Environmental Sciences Assistantship Openings](https://www.clemson.edu/cafls/plant-environmental-sciences/students/assistantships.html) site.
-Typically, graduate students will reside in Clemson, SC for the first year of the graduate program to fulfill course requirements.
-Primary field and laboratory research will take place at the Clemson Pee Dee Research & Education Center, a 2,300 acre site located in Florence, SC that is positioned in the heart of South Carolina agriculture.
+## Approach
 
-As members of our group, graduate students will gain knowledge in plant breeding, quantitative genetics, and data science.
-Collaborations across multi-disciplinary research groups will be expected, as will the pursuit of support from intramural or extramural fellowships.
-Both formal and informal training will be provided through group and individual meetings, conference and workshop attendance, and interactions with others in the lab and department.
-
-To apply, email a CV and a brief description of experience and career goals to Jenna Hershberger at [jmhersh@clemson.edu](mailto:jmhersh@clemson.edu).
-For full admissions details, visit the [Online Graduate Application](https://www.clemson.edu/graduate/admissions/apply/).
-Indicate interest in the Hershberger lab in the application.
+1. Generate appropriate data models for HDPs (spectral, transcriptomic, metabolomic, proteomic, and microbiome data) that accurately represent data structure and associated metadata for plant breeding and genetics use cases.
+2. Develop BrAPI standards to efficiently handle HDPs based on the data models for each data type.
+3. Design and implement HDP storage structures in BrAPI-enabled breeding databases.
+4. Integrate HDP BrAPI calls into widely-used plant breeding data collection tools.
+5. Develop HDP BrAPI-enabled analysis applications (BrAPPs) that integrate omics and other plant breeding data types.
