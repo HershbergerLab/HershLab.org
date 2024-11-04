@@ -1,3 +1,13 @@
+- title: High-dimensional phenotype data management
+  group: featured
+  image: images/research/dsfas-hdp.png
+  link: research/brapi-hdp
+  description:  The Hershberger Lab is leading a new AFRI DSFAS project, High-Dimensional Phenotype Data Management and Analysis Infrastructure for Plant Breeding, in collaboration with Trevor Rife, Lukas Mueller, Jean-Luc Jannink, and Peter Selby.
+  tags:
+    - spectroscopy
+    - transcriptomics
+    - data management
+
 - title: Green bean variety trials
   group: featured
   image: images/research/gb_field.jpg
