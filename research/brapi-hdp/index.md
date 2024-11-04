@@ -23,3 +23,7 @@ This project aims to increase the accessibility of HDPs for plant breeding progr
 3. Design and implement HDP storage structures in BrAPI-enabled breeding databases.
 4. Integrate HDP BrAPI calls into widely-used plant breeding data collection tools.
 5. Develop HDP BrAPI-enabled analysis applications (BrAPPs) that integrate omics and other plant breeding data types.
+
+## Funding
+
+This work is supported by the Agriculture and Food Research Initiative Data Science for Food and Agricultural Systems, project award no. [SC-2023-11724](https://portal.nifa.usda.gov/web/crisprojectpages/1032341-dsfas-partnership-high-dimensional-phenotype-data-management-and-analysis-infrastructure-for-plant-breeding.html) from the U.S. Department of Agriculture’s National Institute of Food and Agriculture.
