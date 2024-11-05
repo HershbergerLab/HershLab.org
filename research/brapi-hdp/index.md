@@ -42,7 +42,7 @@ HDPs share a characteristic structure in which each observation is comprised of 
 
 ## Team
 
-* [Jenna Hershberger, Clemson University]() - PD
+* [Jenna Hershberger, Clemson University](members/jenna-hershberger) - PD
 * [Trevor Rife, Clemson University](https://www.rifelab.org/) - co-PI
 * [Lukas Mueller, Boyce Thompson Institute](https://btiscience.org/lukas-mueller/) - co-PI
 * [Jean-Luc Jannink, USDA-ARS](https://cals.cornell.edu/jean-luc-jannink) - collaborator

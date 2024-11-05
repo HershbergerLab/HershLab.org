@@ -38,6 +38,14 @@ mascot-c:
   icon: fa-solid fa-cat
   description: Mascot
 
+co-pi:
+  icon: fa-solid fa-handshake-simple
+  description: Co-Principal Investigator
+
+collaborator:
+  icon: fa-solid fa-users
+  description: Collaborator
+
 # general
 
 link:
@@ -57,7 +65,7 @@ external:
 
 home-page:
   icon: fa-solid fa-house-user
-  text: Home Page
+  text: Home
   tooltip: Home page
 
 email:
@@ -92,7 +100,7 @@ orcid:
 
 google-scholar:
   icon: fa-brands fa-google
-  text: Google Scholar
+  text: Scholar
   tooltip: Google Scholar
   link: https://scholar.google.com/citations?user=$VALUE
 
@@ -232,3 +240,8 @@ googleplay:
   text: Google Play
   tooltip: Google Play
   link: https://play.google.com/store/apps/details?id=$LINK
+
+erd:
+  icon: fa-solid fa-sitemap
+  text: Entity Relationship Diagram
+  tooltip: Entity Relationship Diagram
