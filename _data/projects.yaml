@@ -8,6 +8,36 @@
     - transcriptomics
     - data management
 
+
+- title: LIMA! SCRI
+  group: featured
+  image: images/team/funding/ftf-logo-english-vertical_rgb-blue.png
+  link: https://www.instagram.com/eatlimas/
+  description:  In collaboration with partners across the US, we are working to develop genomic resources to improve lima bean breeding for consumer quality and agronomic traits.
+  tags:
+    - lima beans
+    - nutritional quality
+
+
+- title: Climate Resilient Cereals Innovation Lab (CRCIL)
+  group: more
+  image: images/team/funding/ftf-logo-english-vertical_rgb-blue.png
+  link: https://www.k-state.edu/crcil/
+  description:  CRCIL is a USAID-funded effort to enhance cereal germplasm for climate resilience in Ethiopia, Senegal, and Bangladesh. We are supporting the integration of spectroscopy-based phenotyping into partner breeding programs.
+  tags:
+    - spectroscopy
+    - nutritional quality
+
+
+- title: SweetCAP
+  group: featured
+  image: images/news/sweet-corn.jpg
+  link: https://www.sweetcorndevelopment.org/sweet-cap.html
+  description:  We are partnering with collaborators from across the US to develop new breeding technologies for sweet corn. Our current focus is the spectroscopy-aided discrimination of haploid vs diploid kernels during the double haploid induction process. 
+  tags:
+    - sweet corn
+    - spectroscopy
+
 - title: Green bean variety trials
   group: featured
   image: images/research/gb_field.jpg
