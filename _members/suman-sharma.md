@@ -1,6 +1,6 @@
 ---
 name: Suman Sharma
-image: images/team/Sharma.png
+image: images/team/suman-sharma.png
 role: postdoc
 aliases:
   - S Sharma

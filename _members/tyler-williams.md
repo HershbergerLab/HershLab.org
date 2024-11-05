@@ -1,6 +1,6 @@
 ---
 name: Tyler Williams
-image: images/team/Williams.jpg
+image: images/team/tyler-williams.png
 role: technician
 aliases:
   - T Williams

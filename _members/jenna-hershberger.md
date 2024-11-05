@@ -1,6 +1,6 @@
 ---
 name: Jenna Hershberger
-image: images/team/Hershberger_field.jpg
+image: images/team/jenna-hershberger.png
 role: pi
 aliases:
   - JM Hershberger

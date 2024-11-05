@@ -1,6 +1,6 @@
 ---
 name: McKena Wilson
-image: images/team/lady-beetle_1f41e.png
+image: images/team/mckena-wilson.png
 role: postdoc
 aliases:
   - MKL Wilson

@@ -1,6 +1,6 @@
 ---
 name: Chip
-image: images/team/chip.jpg
+image: images/team/chip.png
 description:
 role: mascot-d
 aliases:

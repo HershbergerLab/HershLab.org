@@ -1,6 +1,6 @@
 ---
 name: Walker Spivey
-image: images/team/Spivey.jpg
+image: images/team/walker-spivey.png
 description:
 role: phd
 aliases:
