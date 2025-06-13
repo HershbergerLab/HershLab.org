@@ -1,5 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/csc2.70094
+  title: Sustaining public plant breeding programs across generations
+  authors:
+  - Iago Hale
+  - Jenny Koebernick
+  - Jenna Hershberger
+  - Trevor Rife
+  - "Juan\u2010David Arbelaez"
+  - Neil Anderson
+  - Anton Bekkerman
+  - Martin Bohn
+  - Fred Bourland
+  - Timothy Burke
+  - Peng Chee
+  - Kate Evans
+  - Nathan Fumia
+  - Mitchell Feldmann
+  - Ksenija Gasic
+  - Steve Hague
+  - "Ana Mar\xEDa Heilman\u2010Morales"
+  - Amanda Hulse Kemp
+  - Carlos Iglesias
+  - Lukas Mueller
+  - Jim Luby
+  - Richard Pratt
+  - Addie Thompson
+  - Richard Vierling
+  - Margaret Worthington
+  - Margaret Smith
+  - Gayle Volk
+  - Marnin Wolfe
+  - Michael Kantar
+  publisher: Crop Science
+  date: '2025-05-01'
+  link: https://doi.org/g9p8br
+  orcid: 0000-0002-3147-6867
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.3389/fpls.2023.1177406
   title: 'Sainfoin (Onobrychis spp.) crop ontology: supporting germplasm characterization
     and international research collaborations'
