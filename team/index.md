@@ -9,15 +9,14 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi, group: " %}
-{% include list.html data="members" component="portrait" filters="role: technician, group: " %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: " %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: " %}
-{% include list.html data="members" component="portrait" filters="role: masters, group: " %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: " %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: " %}
-{% include list.html data="members" component="portrait" filters="role: mascot-d, group: " %}
-{% include list.html data="members" component="portrait" filters="role: mascot-c, group: " %}
+{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'programmer' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'engineer' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'highschool' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'mascot' and group != 'alum'" %}
 
 {% include section.html dark=true %}
 
@@ -37,14 +36,7 @@ If you have a strong interest in quantitative genetics, plant breeding, vegetabl
 <!---
 ## Alumni
 
-{% include list.html data="members" component="portrait" filters="role: technician, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: postdoc, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: phd, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: masters, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: programmer, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: mascot-d, group: alum" style="small" %}
-{% include list.html data="members" component="portrait" filters="role: mascot-c, group: alum" style="small" %}
+{% include list.html data="members" component="portrait" filter="group == 'alum'" style="small"%}
 
 {% include section.html %}
 -->
