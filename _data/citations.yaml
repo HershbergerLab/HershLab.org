@@ -264,6 +264,37 @@
   tags:
   - spectroscopy
   - cassava
+- id: doi:10.1002/ppj2.20012
+  title: "Making waves in Breedbase: An integrated spectral data storage and analysis\
+    \ pipeline for plant breeding\_programs"
+  authors:
+  - Jenna Hershberger
+  - Nicolas Morales
+  - Christiano C. Simoes
+  - Bryan Ellerbrock
+  - Guillaume Bauchet
+  - Lukas A. Mueller
+  - Michael A. Gore
+  publisher: The Plant Phenome Journal
+  date: '2021-03-15'
+  link: https://doi.org/gn9hh6
+  orcid: 0000-0002-3147-6867
+  plugin: sources.py
+  file: sources.yaml
+  image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1002/ppj2.20012
+  - type: preprint
+    link: https://doi.org/10.1101/2020.09.18.278549
+  - type: github
+    link: GoreLab/waves
+  - type: package
+    link: https://CRAN.R-project.org/package=waves
+  tags:
+  - spectroscopy
+  - R
+  - data management
 - id: doi:10.1002/ppj2.20024
   title: "Prospector: A mobile application for portable, high\u2010throughput near\u2010\
     infrared spectroscopy phenotyping"
@@ -306,35 +337,5 @@
   - transcriptomics
   - sweet corn
   - nutritional quality
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1002/ppj2.20012
-  title: "Making waves in Breedbase: An integrated spectral data storage and analysis\
-    \ pipeline for plant breeding\_programs"
-  authors:
-  - Jenna Hershberger
-  - Nicolas Morales
-  - Christiano C. Simoes
-  - Bryan Ellerbrock
-  - Guillaume Bauchet
-  - Lukas A. Mueller
-  - Michael A. Gore
-  publisher: The Plant Phenome Journal
-  date: '2021-03-15'
-  link: https://doi.org/gn9hh6
-  image: https://raw.githubusercontent.com/GoreLab/waves/master/logo.png
-  buttons:
-  - type: journal
-    link: https://doi.org/10.1002/ppj2.20012
-  - type: preprint
-    link: https://doi.org/10.1101/2020.09.18.278549
-  - type: github
-    link: GoreLab/waves
-  - type: package
-    link: https://CRAN.R-project.org/package=waves
-  tags:
-  - spectroscopy
-  - R
-  - data management
   plugin: sources.py
   file: sources.yaml
