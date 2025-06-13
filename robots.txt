@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://hershlab.org/sitemap.xml
