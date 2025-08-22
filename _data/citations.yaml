@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/s00122-025-04984-y
+  title: Integration of crop modeling and sensing into molecular breeding for nutritional
+    quality and stress tolerance
+  authors:
+  - Jonathan Berlingeri
+  - Abelina Fuentes
+  - Earl Ranario
+  - Heesup Yun
+  - Ellen Y. Rim
+  - Oscar Garrett
+  - Alexander Howard
+  - Mary-Francis LaPorte
+  - Sassoum Lo
+  - Duke Pauli
+  - Jenna Hershberger
+  - Mason Earles
+  - Allen Van Deynze
+  - Edward Charles Brummer
+  - Richard Michelmore
+  - Christopher Y. S. Wong
+  - Troy S. Magney
+  - Pamela C. Ronald
+  - Daniel E. Runcie
+  - Brian N. Bailey
+  - Christine H. Diepenbrock
+  publisher: Theoretical and Applied Genetics
+  date: '2025-08-08'
+  link: https://doi.org/g9xx3m
+  orcid: 0000-0002-3147-6867
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/csc2.70094
   title: Sustaining public plant breeding programs across generations
   authors:
