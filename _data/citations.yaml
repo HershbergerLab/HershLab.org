@@ -82,11 +82,17 @@
   - Shawn C Yarnes
   - " The\_BrAPI\_Consortium"
   publisher: Database
-  date: '2025-01-01'
+  date: '2021-09-24'
   link: https://doi.org/g95bjw
   orcid: 0000-0002-3147-6867
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/BrAPIv2.jpeg
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1093/database/baaf048
+  tags:
+  - data management
 - id: doi:10.1007/s00122-025-04984-y
   title: Integration of crop modeling and sensing into molecular breeding for nutritional
     quality and stress tolerance
@@ -116,8 +122,17 @@
   date: '2025-08-08'
   link: https://doi.org/g9xx3m
   orcid: 0000-0002-3147-6867
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/berlingeri2025.png
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1007/s00122-025-04984-y
+  tags:
+  - review
+  - nutritional quality
+  - stress tolerance
+  - spectroscopy
 - id: doi:10.1002/csc2.70094
   title: Sustaining public plant breeding programs across generations
   authors:
@@ -154,8 +169,14 @@
   date: '2025-05-01'
   link: https://doi.org/g9p8br
   orcid: 0000-0002-3147-6867
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/kantar2025.jpg
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1002/csc2.70094
+  tags:
+  - PBCC
 - id: doi:10.3389/fpls.2023.1177406
   title: 'Sainfoin (Onobrychis spp.) crop ontology: supporting germplasm characterization
     and international research collaborations'
