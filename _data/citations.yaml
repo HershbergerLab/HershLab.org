@@ -1,5 +1,92 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1093/database/baaf048
+  title: 'BrAPI v2: real-world applications for data integration and collaboration
+    in the breeding and genetics community'
+  authors:
+  - Peter Selby
+  - Rafael Abbeloos
+  - Anne-Francoise Adam-Blondon
+  - "Francisco J Agosto-P\xE9rez"
+  - Michael Alaux
+  - Isabelle Alic
+  - Khaled Al-Shamaa
+  - Johan Steven Aparicio
+  - Jan Erik Backlund
+  - Aldrin Batac
+  - Sebastian Beier
+  - Gabriel Besombes
+  - Alice Boizet
+  - Matthijs Brouwer
+  - Terry Casstevens
+  - Arnaud Charleroy
+  - Keo Corak
+  - Chaney Courtney
+  - Mariano Crimi
+  - Gouripriya Davuluri
+  - "Kau\xEA de\_Sousa"
+  - Jeremy Destin
+  - Stijn Dhondt
+  - Ajay Dhungana
+  - Bert Droesbeke
+  - Manuel Feser
+  - Mirella Flores-Gonzalez
+  - Valentin Guignon
+  - Corina Habito
+  - Asis Hallab
+  - Jenna Hershberger
+  - Puthick Hok
+  - Amanda M Hulse-Kemp
+  - Lynn Carol Johnson
+  - Sook Jung
+  - Paul Kersey
+  - Andrzej Kilian
+  - "Patrick K\xF6nig"
+  - Suman Kumar
+  - Josh Lamos-Sweeney
+  - Laszlo Lang
+  - Matthias Lange
+  - "Marie-Ang\xE9lique Laporte"
+  - Taein Lee
+  - "Erwan Le\_Floch"
+  - "Francisco L\xF3pez"
+  - Brandon Madriz
+  - Dorrie Main
+  - Marco Marsella
+  - Maud Marty
+  - "C\xE9lia Michotey"
+  - Zachary Miller
+  - Iain Milne
+  - Lukas A Mueller
+  - Moses Nderitu
+  - Pascal Neveu
+  - Nick Palladino
+  - Tim Parsons
+  - Cyril Pommier
+  - "Jean-Fran\xE7ois Rami"
+  - Sebastian Raubach
+  - Trevor Rife
+  - Kelly Robbins
+  - Mathieu Rouard
+  - Joseph Ruff
+  - "Guilhem Semp\xE9r\xE9"
+  - Romil Mayank Shah
+  - Paul Shaw
+  - Becky Smith
+  - Nahuel Soldevilla
+  - Anne Tireau
+  - Clarysabel Tovar
+  - Grzegorz Uszynski
+  - Vivian Bass Vega
+  - Stephan Weise
+  - Shawn C Yarnes
+  - " The\_BrAPI\_Consortium"
+  publisher: Database
+  date: '2025-01-01'
+  link: https://doi.org/g95bjw
+  orcid: 0000-0002-3147-6867
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1007/s00122-025-04984-y
   title: Integration of crop modeling and sensing into molecular breeding for nutritional
     quality and stress tolerance
