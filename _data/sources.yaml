@@ -24,7 +24,7 @@
 # PBCC Transitions
 - id: doi:10.1002/csc2.70094
   image: images/publications/kantar2025.jpg
-  date: "2025-05-01"
+  date: "2025-06-11"
   buttons:
     - type: journal
       link: https://doi.org/10.1002/csc2.70094
