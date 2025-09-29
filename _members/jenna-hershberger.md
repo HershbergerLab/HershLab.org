@@ -1,7 +1,7 @@
 ---
 name: Jenna Hershberger
 image: images/team/jenna-hershberger.png
-role: pi
+role: principal-investigator
 aliases:
   - JM Hershberger
   - J Hershberger
