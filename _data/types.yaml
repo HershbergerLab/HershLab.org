@@ -6,6 +6,10 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+breeder:
+  icon: fa-solid fa-seedling
+  description: Associate Plant Breeder
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher

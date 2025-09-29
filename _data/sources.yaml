@@ -1,3 +1,37 @@
+# BrAPIv2
+- id: doi:10.1093/database/baaf048
+  image: images/publications/BrAPIv2.jpeg
+  date: "2021-09-24"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1093/database/baaf048
+  tags:
+    - data management
+
+# Modeling, sensing, mol breeding review
+- id: doi:10.1007/s00122-025-04984-y
+  image: images/publications/berlingeri2025.png
+  date: "2025-08-08"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1007/s00122-025-04984-y
+  tags:
+    - review
+    - nutritional quality
+    - stress tolerance
+    - spectroscopy
+
+# PBCC Transitions
+- id: doi:10.1002/csc2.70094
+  image: images/publications/kantar2025.jpg
+  date: "2025-05-01"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1002/csc2.70094
+  tags:
+    - PBCC
+
+
 # Sainfoin ontology
 - id: doi:10.3389/fpls.2023.1177406
   image: images/publications/karabulut2023.jpeg

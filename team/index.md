@@ -10,10 +10,13 @@ nav:
 {% include section.html %}
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'technician' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'breeder' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'programmer' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'engineer' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd' and group != 'alum'" %}
+{% include list.html data="members" component="portrait" filter="role == 'masters' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'undergrad' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'highschool' and group != 'alum'" %}
 {% include list.html data="members" component="portrait" filter="role == 'mascot' and group != 'alum'" %}

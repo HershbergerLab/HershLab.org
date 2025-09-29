@@ -2,7 +2,7 @@
 name: Walker Spivey
 image: images/team/walker-spivey.png
 description:
-role: phd
+role: breeder
 aliases:
   - W. W. Spivey
   - W. Spivey
