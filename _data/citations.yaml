@@ -1,31 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1002/ppj2.70045
-  title: "Leveraging high\u2010dimensional seed colorspace in phenomic selection models\
-    \ for herbaceous perennial crops"
-  authors:
-  - William Keaggy
-  - Zachary N. Harris
-  - Jackson Braley
-  - Eric Cassetta
-  - Jorge Gutierrez
-  - Emelyn Piotter
-  - Haley Schuhl
-  - Jared L. Crain
-  - Lee R. DeHaan
-  - M. Kathryn Turner
-  - Noah Fahlgren
-  - Jenna Hershberger
-  - Brandon Schlautman
-  - David L. Van Tassel
-  - Matthew J. Rubin
-  - Allison J. Miller
-  publisher: The Plant Phenome Journal
-  date: '2025-11-27'
-  link: https://doi.org/hbdgds
-  orcid: 0000-0002-3147-6867
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1093/database/baaf048
   title: 'BrAPI v2: real-world applications for data integration and collaboration
     in the breeding and genetics community'
