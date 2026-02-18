@@ -9,7 +9,6 @@
       - spectroscopy
       - phenomic selection
 
-
 # BrAPIv2
 - id: doi:10.1093/database/baaf048
   image: images/publications/BrAPIv2.jpeg
@@ -42,7 +41,6 @@
       link: https://doi.org/10.1002/csc2.70094
   tags:
     - PBCC
-
 
 # Sainfoin ontology
 - id: doi:10.3389/fpls.2023.1177406
