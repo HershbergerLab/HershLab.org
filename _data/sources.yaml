@@ -1,3 +1,15 @@
+#HSV seeds
+- id: doi:10.1002/ppj2.70045
+  image: images/publications/HSVseeds2026.jpg
+  date: "2025-11-27"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1002/ppj2.70045
+    - tags: 
+      - spectroscopy
+      - phenomic selection
+
+
 # BrAPIv2
 - id: doi:10.1093/database/baaf048
   image: images/publications/BrAPIv2.jpeg
