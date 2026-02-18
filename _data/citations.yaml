@@ -26,6 +26,13 @@
   orcid: 0000-0002-3147-6867
   plugin: sources.py
   file: sources.yaml
+  image: images/publications/HSVseeds2026.jpg
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1002/ppj2.70045
+  - tags:
+    - spectroscopy
+    - phenomic selection
 - id: doi:10.1093/database/baaf048
   title: 'BrAPI v2: real-world applications for data integration and collaboration
     in the breeding and genetics community'
