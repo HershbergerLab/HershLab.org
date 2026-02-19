@@ -8,7 +8,7 @@ aliases:
   - Jenna Hershberger
   - Jenna M Hershberger
 links:
-  home-page: jmh579.github.io
+  home-page: https://jmh579.github.io
   email: jmhersh@clemson.edu
   github: jmh579
   twitter: jennahersh
