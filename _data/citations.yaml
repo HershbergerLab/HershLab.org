@@ -25,8 +25,17 @@
   date: '2026-06-06'
   link: https://doi.org/hb8vjm
   orcid: 0000-0002-3147-6867
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/adaskaveg2026.png
+  buttons:
+  - type: preprint
+    link: https://doi.org/10.64898/2026.06.03.729973
+  - tags:
+    - lima bean
+    - genomics
+    - nutritional quality
+    - spectroscopy
 - id: doi:10.1002/ppj2.70045
   title: "Leveraging high\u2010dimensional seed colorspace in phenomic selection models\
     \ for herbaceous perennial crops"
