@@ -1,4 +1,18 @@
-#HSV seeds
+# Lima bean USDA germplasm evaluation
+- id: doi:10.64898/2026.06.03.729973
+  image: images/publications/adaskaveg2026.png
+  date: "2026-06-06"
+  buttons:
+    - type: preprint
+      link: https://doi.org/10.64898/2026.06.03.729973
+    - tags:
+      - lima bean
+      - genomics
+      - nutritional quality
+      - spectroscopy
+
+
+# HSV seeds
 - id: doi:10.1002/ppj2.70045
   image: images/publications/HSVseeds2026.jpg
   date: "2025-11-27"
