@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.06.03.729973
+  title: Genotypic and multi-environment phenotypic evaluation of the lima bean USDA
+    National Plant Germplasm System collection
+  authors:
+  - Jaclyn A. Adaskaveg
+  - Jenna Hershberger
+  - Andrew Farmer
+  - R. Varma Penmetsa
+  - Ivan Garcia-Lopez
+  - Julian Garcia-Abadillo
+  - Xiangming Zhou
+  - Bao-Lam Huynh
+  - Philip Roberts
+  - Emmalea Ernest
+  - Marilyn L. Warburton
+  - Diego Jarquin
+  - Sarah Dohle
+  - Antonia Palkovic
+  - Travis A. Parker
+  - Paul Gepts
+  - Christine H. Diepenbrock
+  publisher: openRxiv
+  date: '2026-06-06'
+  link: https://doi.org/hb8vjm
+  orcid: 0000-0002-3147-6867
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1002/ppj2.70045
   title: "Leveraging high\u2010dimensional seed colorspace in phenomic selection models\
     \ for herbaceous perennial crops"
