@@ -5,11 +5,11 @@
   buttons:
     - type: preprint
       link: https://doi.org/10.64898/2026.06.03.729973
-    - tags:
-      - lima bean
-      - genomics
-      - nutritional quality
-      - spectroscopy
+  tags:
+    - lima bean
+    - genomics
+    - nutritional quality
+    - spectroscopy
 
 
 # HSV seeds
@@ -19,9 +19,9 @@
   buttons:
     - type: journal
       link: https://doi.org/10.1002/ppj2.70045
-    - tags: 
-      - spectroscopy
-      - phenomic selection
+  tags:
+    - spectroscopy
+    - phenomic selection
 
 # BrAPIv2
 - id: doi:10.1093/database/baaf048
