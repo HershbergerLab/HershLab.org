@@ -31,11 +31,11 @@
   buttons:
   - type: preprint
     link: https://doi.org/10.64898/2026.06.03.729973
-  - tags:
-    - lima bean
-    - genomics
-    - nutritional quality
-    - spectroscopy
+  tags:
+  - lima bean
+  - genomics
+  - nutritional quality
+  - spectroscopy
 - id: doi:10.1002/ppj2.70045
   title: "Leveraging high\u2010dimensional seed colorspace in phenomic selection models\
     \ for herbaceous perennial crops"
@@ -66,9 +66,9 @@
   buttons:
   - type: journal
     link: https://doi.org/10.1002/ppj2.70045
-  - tags:
-    - spectroscopy
-    - phenomic selection
+  tags:
+  - spectroscopy
+  - phenomic selection
 - id: doi:10.1093/database/baaf048
   title: 'BrAPI v2: real-world applications for data integration and collaboration
     in the breeding and genetics community'
