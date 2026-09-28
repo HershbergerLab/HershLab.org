@@ -1,3 +1,14 @@
+# Haploid kernel sorting with skNIR
+- id: doi:10.64898/2026.07.23.740370
+  image: images/publications/sharma2026.png
+  date: "2026-07-24"
+  buttons:
+    - type: preprint
+      link: https://www.biorxiv.org/content/10.64898/2026.07.23.740370v1
+  tags:
+    - spectroscopy
+    - sweet corn
+
 # Lima bean anthracnose C. magnum first report
 - id: doi:10.1094/PDIS-07-26-1323-PDN
   image: images/publications/wakeley2026.jpg
