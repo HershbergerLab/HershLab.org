@@ -1,5 +1,45 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1094/PDIS-07-26-1323-PDN
+  title: "First Report of Anthracnose Caused by\n                    <i>Colletotrichum\
+    \ magnum</i>\n                    on Lima Bean in South Carolina"
+  authors:
+  - Katherine Wakeley
+  - Suman Sharma
+  - Kelley Paugh
+  - Alamgir Rahman
+  - Jenna Hershberger
+  publisher: Plant Disease
+  date: '2026-09-28'
+  link: https://doi.org/hcktm8
+  orcid: 0000-0002-3147-6867
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/wakeley2026.jpg
+  buttons:
+  - type: journal
+    link: https://doi.org/10.1094/PDIS-07-26-1323-PDN
+  tags:
+  - lima bean
+  - plant pathology
+- id: doi:10.64898/2026.07.23.740370
+  title: Single-kernel near-infrared spectroscopy enables haploid kernel sorting in
+    field and sweet corn using high-oil haploid inducers across diverse donor-inducer
+    combinations
+  authors:
+  - Suman Sharma
+  - Jeffery L. Gustin
+  - Ursula K. Frei
+  - A. Mark Settles
+  - "Thomas L\xFCbberstedt"
+  - "M\xE1rcio F. R. Resende"
+  - Jenna Hershberger
+  publisher: openRxiv
+  date: '2026-07-24'
+  link: https://doi.org/hcktm9
+  orcid: 0000-0002-3147-6867
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.64898/2026.06.03.729973
   title: Genotypic and multi-environment phenotypic evaluation of the lima bean USDA
     National Plant Germplasm System collection
