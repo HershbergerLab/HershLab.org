@@ -1,3 +1,14 @@
+# Lima bean anthracnose C. magnum first report
+- id: doi:10.1094/PDIS-07-26-1323-PDN
+  image: images/publications/wakeley2026.jpg
+  date: "2026-09-28"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.1094/PDIS-07-26-1323-PDN
+  tags:
+    - lima bean
+    - plant pathology
+
 # Lima bean USDA germplasm evaluation
 - id: doi:10.64898/2026.06.03.729973
   image: images/publications/adaskaveg2026.png
