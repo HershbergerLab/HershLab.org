@@ -31,6 +31,35 @@
   tags:
   - spectroscopy
   - sweet corn
+- id: doi:10.21273/hortsci19681-26
+  title: "Sweet Corn Seed Germination and Vigor Prediction Using Single\u2010kernel\
+    \ Near\u2010infrared Spectroscopy"
+  authors:
+  - Rafaela P. Graciano
+  - Noriko Suzuki
+  - Liza Van der Laan
+  - Suman Sharma
+  - Jenna Hershberger
+  - Lindsey J. Du Toit
+  - "M\xE1rcio F. R. Resende"
+  publisher: HortScience
+  date: '2026-10-30'
+  link: https://doi.org/hcsp28
+  orcid: 0000-0002-3147-6867
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/graciano2026.jpg
+  buttons:
+  - type: journal
+    link: https://doi.org/10.21273/HORTSCI19681-26
+  - type: github
+    link: Resende-Lab/NIRSpredict
+  - type: app
+    text: NIRSpredict
+    link: https://resendelab.shinyapps.io/NIRSpredict/
+  tags:
+  - spectroscopy
+  - sweet corn
 - id: doi:10.1094/PDIS-07-26-1323-PDN
   title: "First Report of Anthracnose Caused by\n                    <i>Colletotrichum\
     \ magnum</i>\n                    on Lima Bean in South Carolina"
