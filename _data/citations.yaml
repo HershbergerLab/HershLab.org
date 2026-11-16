@@ -32,8 +32,8 @@
   - spectroscopy
   - sweet corn
 - id: doi:10.21273/hortsci19681-26
-  title: "Sweet Corn Seed Germination and Vigor Prediction Using Single\u2010kernel\
-    \ Near\u2010infrared Spectroscopy"
+  title: Sweet corn seed germination and vigor prediction using single-kernel near-infrared
+    spectroscopy
   authors:
   - Rafaela P. Graciano
   - Noriko Suzuki
@@ -62,8 +62,8 @@
   - spectroscopy
   - sweet corn
 - id: doi:10.1094/PDIS-07-26-1323-PDN
-  title: "First Report of Anthracnose Caused by\n                    <i>Colletotrichum\
-    \ magnum</i>\n                    on Lima Bean in South Carolina"
+  title: First report of anthracnose caused by <i>Colletotrichum magnum</i> on lima
+    bean in South Carolina
   authors:
   - Katherine Wakeley
   - Suman Sharma
@@ -633,7 +633,7 @@
   - spectroscopy
   - data management
 - id: doi:10.1002/csan.20750
-  title: Sweet Corn Transcriptome Pinpoints Vitamin Genes
+  title: Sweet corn transcriptome pinpoints vitamin genes
   authors: []
   publisher: CSA News
   date: '2022-05-03'
