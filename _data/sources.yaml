@@ -1,5 +1,6 @@
 # Sweet corn seed germination and vigor with skNIR
 - id: doi:10.21273/hortsci19681-26
+  title: Sweet corn seed germination and vigor prediction using single-kernel near-infrared spectroscopy
   image: images/publications/graciano2026.jpg
   date: "2026-10-30"
   buttons:
@@ -34,6 +35,7 @@
 
 # Lima bean anthracnose C. magnum first report
 - id: doi:10.1094/PDIS-07-26-1323-PDN
+  title: First report of anthracnose caused by <i>Colletotrichum magnum</i> on lima bean in South Carolina
   image: images/publications/wakeley2026.jpg
   date: "2026-09-28"
   buttons:
@@ -138,6 +140,7 @@
 
 # CSA News sweet corn
 - id: doi:10.1002/csan.20750
+  title: Sweet corn transcriptome pinpoints vitamin genes
   type: article
   image: images/news/jenna_harvesting.JPG
   date: "2022-05-03"
