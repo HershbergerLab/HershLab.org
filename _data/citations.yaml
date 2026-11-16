@@ -24,6 +24,10 @@
     link: https://doi.org/10.1007/s00122-026-05424-1
   - type: preprint
     link: https://www.biorxiv.org/content/10.64898/2026.07.23.740370v1
+  - type: github
+    link: HershbergerLab/SweetCAP_skNIR_Haploid_Discriminant_Analysis
+  - type: data
+    link: https://doi.org/10.5061/dryad.cfxpnvxp1
   tags:
   - spectroscopy
   - sweet corn
