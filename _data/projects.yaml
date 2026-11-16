@@ -33,7 +33,7 @@
   group: featured
   image: images/news/sweet-corn.jpg
   link: https://www.sweetcorndevelopment.org/sweet-cap.html
-  description:  We are partnering with collaborators from across the US to develop new breeding technologies for sweet corn. Our current focus is the spectroscopy-aided discrimination of haploid vs diploid kernels during doubled haploid induction. 
+  description:  We are partnering with collaborators from across the US to develop new breeding technologies for sweet corn. Our work on spectroscopy-aided discrimination of haploid vs diploid kernels during doubled haploid induction is now [published in *Theoretical and Applied Genetics*](https://doi.org/10.1007/s00122-026-05424-1).
   tags:
     - sweet corn
     - spectroscopy
