@@ -1,3 +1,19 @@
+# Sweet corn seed germination and vigor with skNIR
+- id: doi:10.21273/hortsci19681-26
+  image: images/publications/graciano2026.jpg
+  date: "2026-10-30"
+  buttons:
+    - type: journal
+      link: https://doi.org/10.21273/HORTSCI19681-26
+    - type: github
+      link: Resende-Lab/NIRSpredict
+    - type: app
+      text: NIRSpredict
+      link: https://resendelab.shinyapps.io/NIRSpredict/
+  tags:
+    - spectroscopy
+    - sweet corn
+
 # Haploid kernel sorting with skNIR
 - id: doi:10.1007/s00122-026-05424-1
   image: images/publications/sharma2026.png
