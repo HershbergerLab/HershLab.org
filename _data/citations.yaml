@@ -56,6 +56,7 @@
     link: Resende-Lab/NIRSpredict
   - type: app
     text: NIRSpredict
+    tooltip: NIRSpredict web app
     link: https://resendelab.shinyapps.io/NIRSpredict/
   tags:
   - spectroscopy
@@ -242,6 +243,9 @@
   buttons:
   - type: journal
     link: https://doi.org/10.1093/database/baaf048
+  - type: erd
+    text: ERD
+    link: https://plantbreeding.github.io/brapi-ontology/uml.html
   tags:
   - data management
 - id: doi:10.1007/s00122-025-04984-y
@@ -326,6 +330,10 @@
   buttons:
   - type: journal
     link: https://doi.org/10.1002/csc2.70094
+  - type: website
+    text: PBCC
+    tooltip: Plant Breeding Coordinating Committee
+    link: https://plantbreeding.cc
   tags:
   - PBCC
 - id: doi:10.3389/fpls.2023.1177406
@@ -358,6 +366,12 @@
   buttons:
   - type: journal
     link: https://doi.org/10.3389/fpls.2023.1177406
+  - type: website
+    text: Crop Ontology
+    tooltip: Sainfoin ontology (CO_369) on Crop Ontology
+    link: https://cropontology.org/term/CO_369:ROOT
+  - type: github
+    link: Planteome/CO_369-sainfoin-traits
   tags:
   - legumes
   - data management
@@ -497,6 +511,9 @@
   buttons:
   - type: journal
     link: https://doi.org/10.1093/g3journal/jkac078
+  - type: website
+    text: Breedbase
+    link: https://breedbase.org
   tags:
   - data management
 - id: doi:10.1016/j.pbi.2021.102150
@@ -581,6 +598,9 @@
     link: GoreLab/waves
   - type: package
     link: https://CRAN.R-project.org/package=waves
+  - type: website
+    text: Breedbase
+    link: https://breedbase.org
   tags:
   - spectroscopy
   - R
@@ -608,7 +628,7 @@
   - type: preprint
     link: https://arxiv.org/abs/2104.07071v1
   - type: googleplay
-    link: org.phenoapps.prospector
+    link: https://play.google.com/store/apps/details?id=org.phenoapps.prospector
   tags:
   - spectroscopy
   - data management
